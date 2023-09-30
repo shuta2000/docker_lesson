@@ -1,0 +1,300 @@
+  109  for i in {1..50}; do     touch gizumo$(printf "%02d" $i).md; saddffe; ;
+  110  for i in {1..50}; do     Rm gizumo$(printf "%02d" $i).md; done
+  111  for i in {1..50}; do     rm gizumo$(printf "%02d" $i).md; done
+  112  ls
+  113  pwd
+  114  cd document
+  115  cd server_lesson
+  116  cd ..documents
+  117  ls
+  118  pwd
+  119  pwd
+  120  ls
+  121  cd linux_practice2
+  122  ls
+  123  pw
+  124  pwd
+  125  cd linux_practice2
+  126  ls
+  127  for i in {1..50}; do     touch gizumo$(printf "%02d" $i).md; done
+  128  ls
+  129  for i in {1..50}; do     rm gizumo$(printf "%02d" $i).md; done
+  130  ls
+  131  for i in {1..50}; do     rm gizumo$(printf "%02d" $i).md; done
+  132  for i in {２..50}; do     rm gizumo$(printf "%02d" $i).md; done
+  133  for i in {2..50}; do     rm gizumo$(printf "%02d" $i).md; done
+  134  ls
+  135  for i in {3..50}; do     rm gizumo$(printf "%02d" $i).md; done
+  136  ls
+  137  touch documents
+  138  ls
+  139  cd documents
+  140  pwd
+  141  ls
+  142  rm docments
+  143  rm documents
+  144  ls
+  145  mkdir documents
+  146  ls
+  147  cd documents
+  148  ls
+  149  for i in {1..50}; do     touch gizumo$(printf "%02d" $i).md; done
+  150  ls
+  151  ls
+  152  pwd
+  153  cd linux_practice2
+  154  cd /root
+  155  pwd
+  156  ls
+  157  cd server_lesson
+  158  ls
+  159  rm server_lesson
+  160  ls
+  161  rm server_lesson
+  162  ls
+  163  cd /home
+  164  ls
+  165  cd /root
+  166  ls
+  167  pwd
+  168  sl
+  169  ls
+  170  cd server_lesson
+  171  ls
+  172  rm server_lesson
+  173  rm -r server_lesson
+  174  rm -rf server_lesson
+  175  ls
+  176  touch linux_practice1
+  177  ls
+  178  cd linux_practice1
+  179  cd linux_practice1
+  180  ls
+  181  cd linux_practice1
+  182  ls
+  183  touch linux_practice2
+  184  ls
+  185  ls
+  186  rm linux_practice1
+  187  rm linux_practice2
+  188  ls
+  189  mkdir linux_practice1
+  190  linux_practice2
+  191  ls
+  192  mkdirlinux_practice2
+  193  mkdir linux_practice1
+  194  ks
+  195  ls
+  196  mkdir linux_practice2
+  197  ls
+  198  cd linux_practice1
+  199  ls
+  200  touch public
+  201  ls
+  202  touch tmp
+  203  ls
+  204  rm public
+  205  rm tmp
+  206  ls
+  207  mkdir public
+  208  ls
+  209  mkdir tmp
+  210  ls
+  211  cd index.php
+  212  cd public
+  213  ls
+  214  touch index.php
+  215  touch index_bk.php
+  216  ls
+  217  cd ..
+  218  ls
+  219  cd tmp
+  220  ls
+  221  touch index.php
+  222  ls
+  223  cd ../../
+  224  ls
+  225  cd linux_practice1
+  226  ls
+  227  cd..
+  228  cd ..
+  229  ls
+  230  cd linux_practice2
+  231  ls
+  232  mkdir documents
+  233  mkdir trash
+  234  ls
+  235  touch .gitignore
+  236  touch exec_command.log
+  237  ls
+  238  touch .gitignore
+  239  ls
+  240  ls
+  241  touch .gitignore
+  242  ls
+  243  pwd
+  244  ls
+  245  touch  .gitignore
+  246  ls
+  247  cd ..
+  248  ls
+  249  linux_practice2
+  250  ls
+  251  cd linux_practice2
+  252  ls
+  253  touch  .gitignore
+  254  ls
+  255  cd documents
+  256  ls
+  257  cd ..
+  258  cd trash
+  259  ls
+  260  cd ..
+  261  ls
+  262  touch .gitignore
+  263  ls
+  264  ls -ld linux_practice2
+  265  cd ..
+  266  ls
+  267  ls -ld linux_practice2
+  268  ls
+  269  cd [root@e0c30c31eab1 server_lesson]# ls -ld linux_practice2
+  270  cd linux_practice2
+  271  ls
+  272  cd documents
+  273  ls
+  274  for i in {1..50}; do     touch   gizumo$(printf "%02d" $i).md; done
+  275  ls
+  276  ls
+  277  cd ..
+  278  ls
+  279  cd trash
+  280  ls
+  281  ls
+  282  cd ..
+  283  ls
+  284  mv documents/gizumo{20-40}.md trash/
+  285  cd documents
+  286  ls
+  287  mv documents/gizumo{20-40}.md trash/
+  288  mv documents/gizumo{20..40}.md trash/
+  289  cd ..
+  290  mv documents/gizumo{20..40}.md trash/
+  291  ls
+  292  cd trash
+  293  ls
+  294  cd ..
+  295  ls
+  296  touch .gitignore
+  297  ls
+  298  touch a
+  299  ls
+  300  rm a
+  301  ls
+  302  touch .a
+  303  ls
+  304  git rm -r --cached .
+  305  ls
+  306  touch .gitignore
+  307  ls
+  308  git status --ignore
+  309  git status --.gitignore
+  310  git version
+  311  cd /root
+  312  cd server_lesson
+  313  ls
+  314  cd first.txt
+  315  ls
+  316  rm first.txt
+  317  ls
+  318  git init
+  319  ls
+  320  touch first.txt
+  321  ls
+  322  linux.practice2
+  323  ls
+  324  cd  linux_practice2
+  325  ls
+  326  touch .gitignore
+  327  ls
+  328  cd ..
+  329  ls
+  330  cd first.txt
+  331  ls
+  332  git init
+  333  cd /root
+  334  ls
+  335  cd server_lesson
+  336  ls
+  337  cd linux_practice2
+  338  ls
+  339  touch .gitignore
+  340  ls
+  341  touch .gitinore
+  342  ls
+  343  touch a
+  344  ls
+  345  rm a
+  346  ls-a
+  347  ls -a
+  348  cd ..
+  349  ls
+  350  cd linux_practice2
+  351  ls
+  352  ls-a
+  353  ls -a
+  354  cd /root
+  355  ls
+  356  cd server_lesson
+  357  ls
+  358  cd /root
+  359  ls
+  360  ls /
+  361  ls
+  362  cd
+  363  clear
+  364  ls
+  365  cd server_lesson
+  366  ls
+  367  cd linux_practice2
+  368  ls
+  369  ls -a
+  370  cd .gitignore
+  371  code .
+  372  pwd
+  373  cd ../
+  374  ls
+  375  cd  linux_practice2
+  376  ls
+  377  ls -a
+  378  ls -a
+  379  cd../
+  380  cd ../
+  381  ls
+  382  1． server_lesson/linux_practice2 ディレクトリ以下に documents というディレクトリを作成後、その下に gizumo01.md から gizumo50.md までの 50個のファイルを作成
+  383  2． linux_practice2 ディレクトリ以下に trash というディレクトリを作成後、その下に 先程作成した documentsディレクトリ下にある gizumo20.md ~ gizumo40.md を 移動
+  384  3． linux_practice2 ディレクトリ以下に .gitignore というファイルを作成
+  385  4． viエディタを使用して .gitignore ファイル に gizumo20.md ~ gizumo29.md までのファイルはgit管理対象に置かない ことを設定する記述を追加
+  386  ls
+  387  linux_practice1
+  388  ls
+  389  cd linux_practice1
+  390  ls
+  391  ls -a
+  392  cd ../
+  393  ls
+  394  cd linux_practice2
+  395  ls
+  396  ls -a
+  397  ls
+  398  pwd
+  399  vi .gitignore
+  400  history 300
+  401  history 300 > exec_command.log
+  402  ls
+  403  cd exec_command.log
+  404  ls
+  405  rm exec_command.log
+  406  ls
+  407  mv exec_command.log server_lesson/linux_practice2/
+  408  history 300 > exec_command.log
