@@ -1,38 +1,38 @@
 #ls
--list$B$O%G%#%l%/%H%jFb$KB8:_$9$k%G%#%l%/%H%j$d%U%!%$%k$r0lMwI=<($9$k%3%^%s%I!#(B
+-listはディレクトリ内に存在するディレクトリやファイルを一覧表示するコマンド。
 
 #pwd
--print working directory$B$O8=:_$N%o!<%-%s%0%G%#%l%/%H%j$r=PNO$7$F$/$l$k!#(B
+-print working directoryは現在のワーキングディレクトリを出力してくれる。
 
 #cd
--$B%o!<%-%s%0%G%#%l%/%H%j$r;XDj$7$?%G%#%l%/%H%j$KJQ99$9$k%3%^%s%I!#(B
+-ワーキングディレクトリを指定したディレクトリに変更するコマンド。
 
 #mkdir
--make directory$B$O%G%#%l%/%H%j$r:n@.$9$k%3%^%s%I!#(B
+-make directoryはディレクトリを作成するコマンド。
 
 #touch
--$B%U%!%$%k$r:n@.$9$k$+%3%^%s%I!#(B
+-ファイルを作成するかコマンド。
 
 #&&
--AND$B1i;;;R(B
+-AND演算子
 
 #cp
--$B%U%!%$%k$d%G%#%l%/%H%j$N%3%T!<$r9T$&%3%^%s%I!#(B
+-ファイルやディレクトリのコピーを行うコマンド。
 
 #mv
--move$B$O%U%!%$%k$d%G%#%l%/%H%j$N0\F0$r9T$&%3%^%s%I!#(B
+-moveはファイルやディレクトリの移動を行うコマンド。
 
 #rm
--remove$B$O%U%!%$%k$d%G%#%l%/%H%j$N:o=|$r9T$&%3%^%s%I!#(B
+-removeはファイルやディレクトリの削除を行うコマンド。
 
 #cat
-cat nate$B$O;XDj$7$?%U%!%$%k$r%?!<%_%J%k>e$K=PNO$9$k%3%^%s%I!#(B
+cat nateは指定したファイルをターミナル上に出力するコマンド。
 
 #>
--$B:8JU$N<B9T7k2L$N=PNO$r1&JU$G;XDj$7$?%U%!%$%k$K=q$-9~$`5-9f!#(B
+-左辺の実行結果の出力を右辺で指定したファイルに書き込む記号。
 
 #>>
--$B:8JU$N<B9T=PNO7k2L$r1&JU$G;XDj$7%U%!%$%k$NKvHx$K=q$-9~$`5-9f!#(B
+-左辺の実行出力結果を右辺で指定しファイルの末尾に書き込む記号。
 
 #vi
--$B%?!<%_%J%k>e$GB(5/F0$G$-$k%(%G%#%?!#(B
+-ターミナル上で即起動できるエディタ。　
